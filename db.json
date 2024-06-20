@@ -16,5 +16,25 @@
     "phone":"123456",
     "password":"123456"
     }
+  ],
+    "posts":[
+    {
+    "id":1,
+    "title":"Retrofit implementation in one video",
+    "link":"https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
+    "img":"https://images.app.goo.gl/i5Lp9k3YocsHSyDd9"
+    },
+    {
+    "id":2,
+    "title":"Retrofit implementation in one video",
+    "link":"https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
+   "img":"https://images.app.goo.gl/i5Lp9k3YocsHSyDd9"
+    },
+    {
+    "id":3,
+    "title":"Retrofit implementation in one video",
+    "link":"https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
+    "img":"https://images.app.goo.gl/i5Lp9k3YocsHSyDd9"
+    }
   ]
 }
