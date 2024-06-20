@@ -15,6 +15,14 @@
     "email":"Osama50@gmail.com",
     "phone":"123456",
     "password":"123456"
+    },
+      {
+    "id":3,
+   "fullName":  "OsamaAboSolyman",
+    "userName":"Osama",
+    "email":"Osama50@gmail.com",
+    "phone":"123456",
+    "password":"123456"
     }
   ],
     "posts":[
