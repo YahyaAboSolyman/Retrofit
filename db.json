@@ -26,6 +26,14 @@
     }
   ],
   "posts":[
+    "kotlin":[
+       {
+        "id":1,
+        "title": "Retrofit implementation in one video",
+        "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
+        "img": "https://img.youtube.com/vi/jmuGZ6Rc8to/hqdefault.jpg"
+      }
+    ]
     {
       "id":1,
       "title": "Retrofit implementation in one video",
