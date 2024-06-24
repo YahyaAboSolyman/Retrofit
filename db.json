@@ -25,8 +25,7 @@
       "password": "123456"
     }
   ],
-  "posts": {
-    "kotlin": [
+  "posts": [
       {
         "id": 1,
         "title": "Retrofit implementation in one video",
@@ -38,9 +37,7 @@
         "title": "Retrofit implementation in two videos",
         "link": "https://www.youtube.com/watch?v=eNAhOqF83Kg&list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r&index=14",
         "img": "https://img.youtube.com/vi/eNAhOqF83Kg/hqdefault.jpg"
-      }
-    ],
-    "java": [
+      },
       {
         "id": 3,
         "title": "Retrofit implementation in three videos",
@@ -60,5 +57,4 @@
         "img": "https://img.youtube.com/vi/jmuGZ6Rc8to/hqdefault.jpg"
       }
     ]
-  }
 }
