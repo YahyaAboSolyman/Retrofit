@@ -34,35 +34,4 @@
         "img": "https://img.youtube.com/vi/jmuGZ6Rc8to/hqdefault.jpg"
       }
     ]
-    {
-      "id":1,
-      "title": "Retrofit implementation in one video",
-      "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
-      "img": "https://img.youtube.com/vi/jmuGZ6Rc8to/hqdefault.jpg"
-    },
-    {
-      "id":2,
-      "title": "Retrofit implementation in two videos",
-      "link": "https://www.youtube.com/watch?v=eNAhOqF83Kg&list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r&index=14",
-      "img": "https://img.youtube.com/vi/eNAhOqF83Kg/hqdefault.jpg"
-    },
-    {
-      "id":3,
-      "title": "Retrofit implementation in three videos",
-      "link": "https://www.youtube.com/watch?v=hfuWOWr-_P8",
-      "img": "https://img.youtube.com/vi/hfuWOWr-_P8/hqdefault.jpg"
-    },
-    {
-      "id":4,
-      "title": "Retrofit implementation in four videos",
-      "link": "https://www.youtube.com/watch?v=vvP5vnmzY84&t=635s",
-      "img": "https://img.youtube.com/vi/vvP5vnmzY84/hqdefault.jpg"
-    },
-    {
-      "id":5,
-      "title": "Retrofit implementation in five videos",
-      "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
-      "img": "https://img.youtube.com/vi/jmuGZ6Rc8to/hqdefault.jpg"
-    }
-  ]
 }
