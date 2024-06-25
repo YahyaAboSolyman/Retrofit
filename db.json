@@ -1,109 +1,109 @@
 {
   "users": [
-        {
-          "id": 1,
-          "fullName": "YahyaAboSolyman",
-          "userName": "Yahay",
-          "email": "yahya50@gmail.com",
-          "phone": "123456",
-          "password": "123456"
-        },
-        {
-          "id": 2,
-          "fullName": "OsamaAboSolyman",
-          "userName": "Osama",
-          "email": "osama50@gmail.com",
-          "phone": "123456",
-          "password": "123456"
-        },
-        {
-          "id": 3,
-          "fullName": "AhmadAboSolyman",
-          "userName": "Ahmad",
-          "email": "ahmad50@gmail.com",
-          "phone": "123456",
-          "password": "123456"
-        }
-      ],
-      "posts": {
-         "videos":[
-            {
-          "id": 1,
-          "title": "Retrofit implementation in one video",
-          "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
-        },
-        {
-          "id": 2,
-          "title": "Retrofit implementation in two videos",
-          "link": "https://www.youtube.com/watch?v=eNAhOqF83Kg&list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r&index=14",
-        },
-        {
-          "id": 3,
-          "title": "Retrofit implementation in three videos",
-          "link": "https://www.youtube.com/watch?v=hfuWOWr-_P8",
-        },
-        {
-          "id": 4,
-          "title": "Retrofit implementation in four videos",
-          "link": "https://www.youtube.com/watch?v=vvP5vnmzY84&t=635s",
-        },
-        {
-          "id": 5,
-          "title": "Retrofit implementation in five videos",
-          "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
-        },
-         {
-          "id": 6,
-          "title": "Retrofit implementation in one video",
-          "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
-        },
-        {
-          "id": 7,
-          "title": "Retrofit implementation in two videos",
-          "link": "https://www.youtube.com/watch?v=eNAhOqF83Kg&list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r&index=14",
-        },
-        {
-          "id": 8,
-          "title": "Retrofit implementation in three videos",
-          "link": "https://www.youtube.com/watch?v=hfuWOWr-_P8",
-        },
-        {
-          "id": 9,
-          "title": "Retrofit implementation in four videos",
-          "link": "https://www.youtube.com/watch?v=vvP5vnmzY84&t=635s",
-        },
-        {
-          "id": 10,
-          "title": "Retrofit implementation in five videos",
-          "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA",
-        }
-     ],
-     "books":[
-       {
-         "id":1,
-         "title":"Clean code",
-         "link":"https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf"
-       },
-        {
-         "id":2,
-         "title":"The pragmatic programmer",
-         "link":"https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf"
-       },
-        {
-         "id":3,
-         "title":"Code: The Hidden Language of Computer Hardware and Software",
-         "link":"https://bobcarp.wordpress.com/wp-content/uploads/2014/07/code-charles-petzold.pdf"
-       },
-        {
-         "id":4,
-         "title":"أنماط التصميم",
-         "link":"https://2nees.com/files/Design-Patterns-2nees.pdf"
-       },
-        {
-         "id":5,
-         "title":"The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition",
-         "link":"https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf"
-       },
-     ]   
+    {
+      "id": 1,
+      "fullName": "YahyaAboSolyman",
+      "userName": "Yahay",
+      "email": "yahya50@gmail.com",
+      "phone": "123456",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "fullName": "OsamaAboSolyman",
+      "userName": "Osama",
+      "email": "osama50@gmail.com",
+      "phone": "123456",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "fullName": "AhmadAboSolyman",
+      "userName": "Ahmad",
+      "email": "ahmad50@gmail.com",
+      "phone": "123456",
+      "password": "123456"
+    }
+  ],
+  "posts": {
+    "videos": [
+      {
+        "id": 1,
+        "title": "Retrofit implementation in one video",
+        "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA"
+      },
+      {
+        "id": 2,
+        "title": "Retrofit implementation in two videos",
+        "link": "https://www.youtube.com/watch?v=eNAhOqF83Kg&list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r&index=14"
+      },
+      {
+        "id": 3,
+        "title": "Retrofit implementation in three videos",
+        "link": "https://www.youtube.com/watch?v=hfuWOWr-_P8"
+      },
+      {
+        "id": 4,
+        "title": "Retrofit implementation in four videos",
+        "link": "https://www.youtube.com/watch?v=vvP5vnmzY84&t=635s"
+      },
+      {
+        "id": 5,
+        "title": "Retrofit implementation in five videos",
+        "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA"
+      },
+      {
+        "id": 6,
+        "title": "Retrofit implementation in one video",
+        "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA"
+      },
+      {
+        "id": 7,
+        "title": "Retrofit implementation in two videos",
+        "link": "https://www.youtube.com/watch?v=eNAhOqF83Kg&list=PLSrm9z4zp4mEWwyiuYgVMWcDFdsebhM-r&index=14"
+      },
+      {
+        "id": 8,
+        "title": "Retrofit implementation in three videos",
+        "link": "https://www.youtube.com/watch?v=hfuWOWr-_P8"
+      },
+      {
+        "id": 9,
+        "title": "Retrofit implementation in four videos",
+        "link": "https://www.youtube.com/watch?v=vvP5vnmzY84&t=635s"
+      },
+      {
+        "id": 10,
+        "title": "Retrofit implementation in five videos",
+        "link": "https://youtu.be/jmuGZ6Rc8to?si=rQK0_rZn4ti79oFA"
+      }
+    ],
+    "books": [
+      {
+        "id": 1,
+        "title": "Clean code",
+        "link": "https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf"
+      },
+      {
+        "id": 2,
+        "title": "The pragmatic programmer",
+        "link": "https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf"
+      },
+      {
+        "id": 3,
+        "title": "Code: The Hidden Language of Computer Hardware and Software",
+        "link": "https://bobcarp.wordpress.com/wp-content/uploads/2014/07/code-charles-petzold.pdf"
+      },
+      {
+        "id": 4,
+        "title": "أنماط التصميم",
+        "link": "https://2nees.com/files/Design-Patterns-2nees.pdf"
+      },
+      {
+        "id": 5,
+        "title": "The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition",
+        "link": "https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf"
+      }
+    ]
   }
 }
