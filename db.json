@@ -79,7 +79,31 @@
         }
      ],
      "books":[
-       
+       {
+         "id":1,
+         "title":"Clean code",
+         "link":"https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf"
+       },
+        {
+         "id":2,
+         "title":"The pragmatic programmer",
+         "link":"https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf"
+       },
+        {
+         "id":3,
+         "title":"Code: The Hidden Language of Computer Hardware and Software",
+         "link":"https://bobcarp.wordpress.com/wp-content/uploads/2014/07/code-charles-petzold.pdf"
+       },
+        {
+         "id":4,
+         "title":"أنماط التصميم",
+         "link":"https://2nees.com/files/Design-Patterns-2nees.pdf"
+       },
+        {
+         "id":5,
+         "title":"The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition",
+         "link":"https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf"
+       },
      ]   
   }
 }
